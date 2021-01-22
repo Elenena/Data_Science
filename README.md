@@ -1,3 +1,3 @@
 # Data_Science
-test
 I just created my first repository
+I want to understand
